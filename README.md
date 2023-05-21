@@ -3,7 +3,7 @@
 
 - 👨‍💻 Currently working as Web Developer at **Nunsys**
 
-- 🌱 I’m currently learning **Angular and Spring**
+- 🌱 I’m currently working with **Angular and Spring**
 
 - 📫 How to reach me **lucasperuchena.27@gmail.com**
 
