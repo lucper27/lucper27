@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate web developer from Argentina, but living in Spain</h3>
+<h3 align="center">A passionate web developer from Argentina, currently living in Spain</h3>
 
-- 👨‍💻 Currently working as Web Developer at **Nunsys**
+- 👨‍💻 Currently working as FullStack Web Developer at **Nunsys**
 
 - 🌱 I’m currently working with **Angular and Spring**
 
